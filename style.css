@@ -1,0 +1,14 @@
+.title{
+    /* background-color: red; */
+    background: linear-gradient(rgba(20,20,31,0.7),rgba(20,20,31,0.7)),url(photos/camera-1130731_1280.jpg );
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.alli{
+    margin-top: 50px;
+    
+}
+.font{
+    color: white;
+}
